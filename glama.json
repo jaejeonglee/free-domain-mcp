@@ -1,0 +1,11 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["jaejeonglee"],
+  "name": "free-domain-mcp",
+  "display_name": "Free Domain MCP — Instant Subdomains for AI Agents",
+  "description": "Free subdomain DNS service. AI agents can create A/CNAME/TXT records instantly via sitey.one. No signup required.",
+  "category": "Cloud Platforms",
+  "tags": ["dns", "subdomain", "free", "vercel", "deploy", "domain", "sitey"],
+  "repository": "https://github.com/jaejeonglee/free-domain-mcp",
+  "homepage": "https://sitey.one"
+}
